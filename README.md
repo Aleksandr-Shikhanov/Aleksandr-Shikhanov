@@ -1,6 +1,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="200"/>
 </div>
+
+<div id="badges">
+  <a href="https://t.me/Shikhanov63">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  <a href="mailto:ShikhanovAS@yandex.ru">
+    <img src="https://img.shields.io/badge/-Yandex-red?logo=Yandex&logoColor=white" alt="mail.yandex Badge"/>
+  </a>
+</div>
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjODkzNDFhYzlmNjBlMTQ2MjU4MjZiMjgxN2VjYjQwOTU3Mzg0MCZjdD1z/06URZ07ghkLOiziKPr/giphy.gif" width="150"/>:
 </div>
