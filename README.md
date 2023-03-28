@@ -45,7 +45,6 @@
 ### :fire: My Stats :
 <div id="header" align="center">
   
- ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-Shikhanov&theme=default)         
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-Shikhanov&theme=default)   
+  
 </div>         
-     
-      
