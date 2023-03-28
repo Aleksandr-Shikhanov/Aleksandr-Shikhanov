@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="300" height="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://t.me/Shikhanov63">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
@@ -43,8 +43,9 @@
 
 
 ### :fire: My Stats :
-
+<div id="header" align="center">
+  
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-Shikhanov&theme=default)         
-          
+</div>         
      
       
