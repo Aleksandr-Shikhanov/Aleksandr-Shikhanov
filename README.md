@@ -14,8 +14,18 @@
 - С октября 2022 года занимаюсь изучением аналитики данных.  
 - Более 10 лет работы в химической промышленности и постоянной работы с данными, разработки дашбордов, графиков для анализа процессов, а также сбора данных для разбора аварийных ситуаций. Для аналитики в основном использовал Excel, специальное ПО Experion PKS. Данные инструменты мне не давали более тоного понимания возникновения внештатных ситуаций и аварийных остановок, для более глубокого анализа стал изучать Python и SQL. В ходе изучения Python и SQL у меня возникло много вопросов в результате чего я принял решение пройти обучение в онлайн школе DATA SCIENCE Karpov Courses по итогу получив новую специальность аналитик данных.
 
-### :hammer_and_wrench: Стек :
+### :hammer_and_wrench: Языки и инструменты :
 <div>
+  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;
+  
+  
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
