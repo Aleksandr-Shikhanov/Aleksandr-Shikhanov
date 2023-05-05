@@ -16,20 +16,20 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-  <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/plotly-white?logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scipy-white?logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter_notebook-white?logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Clickhouse-white?logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;   
-  <img src="https://img.shields.io/badge/PostgreSQL-white?logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/A/B тесты-white?logo=A/B тесты&logoColor=black&style=for-the-badge" title="A/B тесты" alt="A/B тесты" height="40"/>&nbsp;    
-  <img src="https://img.shields.io/badge/-EXCEL-FFF?&logo=EXCEL" title="EXCEL" alt="EXCEL" height="40"/>&nbsp; 
+  <img src="https://img.shields.io/badge/python-FFF?&logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-FFF?&logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-FFF?&logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-FFF?&logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-FFF?&logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-FFF?&logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-FFF?&logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;   
+  <img src="https://img.shields.io/badge/PostgreSQL-FFF?&logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-FFF?&logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-FFF?&logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-FFF?&logo=Airflow&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-FFF?&logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/A/B тесты-FFF?&logo=A/B тесты&logoColor=black&style=for-the-badge" title="A/B тесты" alt="A/B тесты" height="40"/>&nbsp;    
+  <img src="https://img.shields.io/badge/-EXCEL-FFFF?&logo=EXCEL" title="EXCEL" alt="EXCEL" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-GIT-FFF?&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Gitlab-FFF?&logo=Gitlab" title="Gitlab" alt="Gitlab" height="40"/>&nbsp; 
 </div>
