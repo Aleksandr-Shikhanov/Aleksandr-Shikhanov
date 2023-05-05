@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/Jupyter_notebook-FFF?&logo=Jupyter" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Clickhouse-FFF?&logo=Clickhouse" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;   
   <img src="https://img.shields.io/badge/PostgreSQL-FFF?&logo=PostgreSQL" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/redash-FFF?&logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/redash-FFF?&logo=redash&logoColor=black" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-FFF?&logo=Tableau&s&logoColor=yellow" title="Tableau" alt="Tableau" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Airflow-FFF?&logo=Airflow&s&logoColor=yellow" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-FFF?&logo=github&logoColor=black" title="GitHub" alt="GitHub" height="40"/>&nbsp;
@@ -33,16 +33,33 @@
   <img src="https://img.shields.io/badge/-GIT-FFF?&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Gitlab-FFF?&logo=Gitlab" title="Gitlab" alt="Gitlab" height="40"/>&nbsp; 
 </div>
+### :metal: Умею:
+<ul>
+<li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
+<li>SQL: вложенные запросы, оконные функции, конструкции case, объединение таблиц
+<li>Работа над проектами в системе контроля версий git
+<li>Формирование дашбордов
+<li>Расчет ключевых метрик продукта: ARPU, ARPPU, retention, conversion, churn rate
+<li>Автоматизация процессов через Airflow
+</ul>
 
-<br> :man_student: В ходе обучения в школе DATA SCIENCE Karpov Courses выполнил проекты по аналитике и А/В тестированию:
+<br> :man_student: В ходе обучения в школе DATA SCIENCE Karpov Courses выполнил проекты по аналитике и А/В тестированию около 30 проектов ниже представлены наиболее интересные
 
-1.	Анализ результатов обучения онлайн-школы. В ходе выполнения заданий по проекту сформулировал что должно считаться курсом, выяснил сколько студентов сдали успешно только один курс, выявил самый сложный и самый простой экзамен в рамках курса, определил топ 3 предметов по колличеству регистраций, определил средний срок сдачи одного экзамена, использовал pandas, в период с начала 2013 по конец 2014 выявил семестр с самой низкой завершаемостью курсов и самыми долгими средними сроками сдачи курсов, использовал сегментацию данных построил адаптированные RFM-кластеры студентов, для качественной оценки аудитории для этого были спользованы следующие метрики:R - среднее время сдачи одного экзамена, F - завершаемость курсов, M - среднее количество баллов, получаемое за экзамен. Для выполнения задачи использовал python и библиотеки pandas, numpy, seaborn, matplotlib.
+### :book: Мои проекты:
+|Название проекта| Описание проекта| Стек|
+|----------------|-----------------|-----|
+|Анализ результатов обучения онлайн-школы. (__[github](https://github.com/Aleksandr-Shikhanov/Learning-Project1)__)|Предобработка данных, выявлен самый сложный и самый простой экзамен, выявлены ТОП 3 предмета по колличеству регистраций, определен семестр с самой низкой завершенностью курсов, проведен RFM-анализ).|pandas, seaborn, matplotlib|
+|Анализ внедрения новой механики оплаты  (__[github](https://github.com/vickiticy/for_project_2)__)|С помощью библиотек requests и urllib сформировал ссылки для скачивания данных с Яндекс диска. Провел предобработку данных.Провел тесты методами bootstrap и ХИ квадрат. В ходе анализа определил и посчитал основные метрики CR, ARPU, ARPPU. Написал SQL запрос который определяет очень усердных студентов. Написал SQL запрос по выгрузке данных о двух группах пользователей по основным метрикам. Разработал функцию которая автоматически подгружает информацию с Яндекс диска и на основани дополнительных параметров пересчитывает основные метрики.  |Python (pandas, seaborn, matplotlib, scipy, matplotlib, tqdm, pandahouse, requests, urllib), SQL|
+|А/А-тестированию мобильного приложения  (__[github](https://github.com/Aleksandr-Shikhanov/A-B-Test)__)|Узнал причиный поломки мобильного приложения|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
+|Узнать стали ли зарабатывать больше с пользователя  (__[github](https://github.com/Aleksandr-Shikhanov/A-B-Test)__)|Провел следующие тесты t-тест, U-тест, бутстрап средних с выводами|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
+|Мобильные игры (__[github](https://github.com/Aleksandr-Shikhanov/mobile_games)__)|Написал функцию для расчета retention, определил метрики для принятия решения, определил какой набор предложеий считается лутьшим|Python(pandas, numpy, datetime, seaborn, matplotlib, requests, urllib, scipy, tqdm)|
+|Создаем Дашборд для визуализации ключевых процессов в [Tableau](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Tableau](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
 
-2.	Анализ внедрения новой механики оплаты для онлайн-школы. В результате выполнения проекта для автоматической подгузки данных с яндекс диска была придумана функция "donload_csv" и использованы библиотеки tqdm, requests, urlencode, проведена предобработка данных путем соединения 4 таблиц в одну, также был проведен тест на нормальность распределения, выполнено А/В тестирование следующими методами bootstrap анализа и ХИ-квадрат, в качестве контрольных метрик использовал следующие подходящие метрики CR в покупку при помощи этой метрики мы можем увидеть сколько пользователей совершили покупку тоесть совершили действие в тестовой и контрольной группах, ARPU эта метрика, которая помогает рассчитывать среднюю выручку на пользователя. При помощи этой метрики мы сможем посмотреть стала ли новая механика приносить доход бизнесу или нет, ARPPU эта метрика, которая показывает среднюю прибыль на одного пользователя целевой группы и контрольной группы в результате чего мы увидим увеличился доход на пользователя при новой механики или нет для определения статистической значимости изменения показателей. Для выполнения задачи использовал python и следующие библиотеки numpy, pandas, scipy, matplotlib.pyplot, seaborn, pandahouse.   
 
-3.  А/А-тестирование мобильного приложения. В ходе выполнения работы выполнилось А/А тестирование мобильного приложения на основе чего выявлена причина поломки сплит-системы. Для выполнения задачи использовал python и библиотеки pandas, numpy, scipy, matplotlib, tqdm.
- 
-4. Мобильные игры. Тестирование нового акционного предложения и разработка функции для подсчета retention.
+
+
+
+
 
 ### :fire: My Stats :
 <div id="header" align="center">
