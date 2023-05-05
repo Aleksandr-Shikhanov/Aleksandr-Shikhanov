@@ -28,9 +28,7 @@
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp;
-height="40"  />&nbsp; 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"  title="Github" alt="Github" width="40" height="40"  />&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"  />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" height="40"  />&nbsp;
        A/B тесты, Airflow
 </div>
 
