@@ -5,14 +5,11 @@
 <div id="badges" align="center">
   <a href="https://t.me/Shikhanov63"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
   <a href="mailto:ShikhanovAS@yandex.ru"><img src="https://img.shields.io/badge/-Yandex-red?logo=Yandex&logoColor=white" alt="mail.yandex Badge"/></a> 
-  <a href="https://wa.me/9084028885"><img src="https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF" alt="mail.yandex Badge"/></a> 
-  
-  <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9084028885)</a>  
+  <a href="https://wa.me/9084028885"><img src="https://img.shields.io/badge/-WHATSAPP-28D146?logo=whatsapp&logoColor=white" alt="mail.yandex Badge"/></a> 
 </div>
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjODkzNDFhYzlmNjBlMTQ2MjU4MjZiMjgxN2VjYjQwOTU3Mzg0MCZjdD1z/06URZ07ghkLOiziKPr/giphy.gif" width="150"/>:
 </div>
-
 - Начинающий аналитик, аналитика поразила меня в 	:cupid:.
 - С октября 2022 года занимаюсь изучением аналитики данных.  
 - Более 10 лет работы в химической промышленности и постоянной работы с данными, разработки дашбордов, графиков для анализа процессов, а также сбора данных для разбора аварийных ситуаций. Для аналитики в основном использовал Excel, специальное ПО Experion PKS. Данные инструменты мне не давали более тоного понимания возникновения внештатных ситуаций и аварийных остановок, для более глубокого анализа стал изучать Python и SQL. В ходе изучения Python и SQL у меня возникло много вопросов в результате чего я принял решение пройти обучение в онлайн школе DATA SCIENCE Karpov Courses по итогу получив новую специальность аналитик данных.
