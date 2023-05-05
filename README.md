@@ -27,9 +27,10 @@
   <img src="https://img.shields.io/badge/redash-white?logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Tableau-white?logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" height="40"  />&nbsp;
-       A/B тесты, Airflow
+       A/B тесты
 </div>
 
 <br> :man_student: В ходе обучения в школе DATA SCIENCE Karpov Courses выполнил проекты по аналитике и А/В тестированию:
