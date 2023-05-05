@@ -16,19 +16,19 @@
 
 ### :hammer_and_wrench: Языки и инструменты :
 <div>
-  <img src="https://img.shields.io/badge/python-FFF?&logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/pandas-FFF?&logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/numpy-FFF?&logo=numpy&logoColor=blue&style=for-the-badge" title="Numpy" alt="Numpy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/plotly-FFF?&logo=plotly&logoColor=blue&style=for-the-badge" title="Plotly" alt="Plotly" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Scipy-FFF?&logo=Scipy&logoColor=black&style=for-the-badge" title="Scipy" alt="Scipy" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter_notebook-FFF?&logo=Jupyter&style=for-the-badge" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Clickhouse-FFF?&logo=Clickhouse&style=for-the-badge" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;   
-  <img src="https://img.shields.io/badge/PostgreSQL-FFF?&logo=PostgreSQL&s&style=for-the-badge" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/python-FFF?&logo=python" title="Python" alt="Python" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/pandas-FFF?&logo=pandas&logoColor=blue" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/numpy-FFF?&logo=numpy&logoColor=blue" title="Numpy" alt="Numpy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/plotly-FFF?&logo=plotly&logoColor=blue" title="Plotly" alt="Plotly" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Scipy-FFF?&logo=Scipy&logoColor=black" title="Scipy" alt="Scipy" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter_notebook-FFF?&logo=Jupyter" title="Jupyter" alt="Jupyter" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Clickhouse-FFF?&logo=Clickhouse" title="ClickHouse" alt="ClickHouse" height="40"/>&nbsp;   
+  <img src="https://img.shields.io/badge/PostgreSQL-FFF?&logo=PostgreSQL" title="PostgreSQL" alt="PostgreSQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/redash-FFF?&logo=redash&logoColor=black&style=for-the-badge" title="Redash" alt="Redash" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Tableau-FFF?&logo=Tableau&s&logoColor=yellow&style=for-the-badge" title="Tableau" alt="Tableau" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/Airflow-FFF?&logo=Airflow&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/github-FFF?&logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
-  <img src="https://img.shields.io/badge/A/B тесты-FFF?&logo=A/B тесты&logoColor=black&style=for-the-badge" title="A/B тесты" alt="A/B тесты" height="40"/>&nbsp;    
+  <img src="https://img.shields.io/badge/Tableau-FFF?&logo=Tableau&s&logoColor=yellow" title="Tableau" alt="Tableau" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/Airflow-FFF?&logo=Airflow&s&logoColor=yellow" title="Airflow" alt="Airflow" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/github-FFF?&logo=github&logoColor=black" title="GitHub" alt="GitHub" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/A/B тесты-FFF?&logo=A/B тесты&logoColor=black" title="A/B тесты" alt="A/B тесты" height="40"/>&nbsp;    
   <img src="https://img.shields.io/badge/-EXCEL-FFFF?&logo=EXCEL" title="EXCEL" alt="EXCEL" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-GIT-FFF?&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Gitlab-FFF?&logo=Gitlab" title="Gitlab" alt="Gitlab" height="40"/>&nbsp; 
