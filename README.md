@@ -57,13 +57,15 @@
 |[Мобильные игры](https://github.com/Aleksandr-Shikhanov/mobile_games)|Написал функцию для расчета retention, определил метрики для принятия решения, определил какой набор предложеий считается лутьшим|Python(pandas, numpy, datetime, seaborn, matplotlib, requests, urllib, scipy, tqdm)|
 |Создаем Дашборд для визуализации ключевых процессов в [Удовлетворенность работников компании](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Публикация вакансий](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |Tableau|
 
+### Обучение сертификаты:
+  
+![Screenshot_43](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/Shikhanov_Karpov_kurs.jpg)
+![Screenshot_44](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/Shikhanov_Stepik.jpg)
+
 ### :fire: My Stats :
 <div id="header" align="center">
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-Shikhanov&theme=default)   
 
-### Обучение сертификаты:
-  
-![Screenshot_43](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/Shikhanov_Karpov_kurs.jpg)
-![Screenshot_44](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/Shikhanov_Stepik.jpg)
+
 </div>         
