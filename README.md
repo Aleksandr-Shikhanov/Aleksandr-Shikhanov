@@ -9,7 +9,9 @@
   <a href="mailto:ShikhanovAS@yandex.ru">
     <img src="https://img.shields.io/badge/-Yandex-red?logo=Yandex&logoColor=white" alt="mail.yandex Badge"/>
   </a>
+  
   <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9084028885)</a>
+  
 </div>
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDZjODkzNDFhYzlmNjBlMTQ2MjU4MjZiMjgxN2VjYjQwOTU3Mzg0MCZjdD1z/06URZ07ghkLOiziKPr/giphy.gif" width="150"/>:
