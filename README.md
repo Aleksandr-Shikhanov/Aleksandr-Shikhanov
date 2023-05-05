@@ -33,7 +33,9 @@
   <img src="https://img.shields.io/badge/-GIT-FFF?&logo=GIT" title="GIT" alt="GIT" height="40"/>&nbsp; 
   <img src="https://img.shields.io/badge/-Gitlab-FFF?&logo=Gitlab" title="Gitlab" alt="Gitlab" height="40"/>&nbsp; 
 </div>
+
 ### :metal: Умею:
+
 <ul>
 <li>Проведение А/В тестов и bootstrap, регрессионного и когортного анализа с помощью python
 <li>SQL: вложенные запросы, оконные функции, конструкции case, объединение таблиц
@@ -53,17 +55,15 @@
 |[А/А-тестированию мобильного приложения](https://github.com/Aleksandr-Shikhanov/A-B-Test)|Узнал причиный поломки мобильного приложения|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
 |[Узнать стали ли зарабатывать больше с пользователя](https://github.com/Aleksandr-Shikhanov/A-B-Test)|Провел следующие тесты t-тест, U-тест, бутстрап средних с выводами|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
 |[Мобильные игры](https://github.com/Aleksandr-Shikhanov/mobile_games)|Написал функцию для расчета retention, определил метрики для принятия решения, определил какой набор предложеий считается лутьшим|Python(pandas, numpy, datetime, seaborn, matplotlib, requests, urllib, scipy, tqdm)|
-|Создаем Дашборд для визуализации ключевых процессов в [Удовлетворенность работников компании](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Публикация вакансий](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |**Tableau**|
-
-
-
-
-
-
+|Создаем Дашборд для визуализации ключевых процессов в [Удовлетворенность работников компании](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Публикация вакансий](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |Tableau|
 
 ### :fire: My Stats :
 <div id="header" align="center">
   
  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aleksandr-Shikhanov&theme=default)   
+
+### Обучение сертификаты:
   
+![Screenshot_43](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/%D0%A8%D0%B8%D1%85%D0%B0%D0%BD%D0%BE%D0%B2%20%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%20%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2%20%D0%BA%D1%83%D1%80%D1%81%D1%8B%20%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf)
+![Screenshot_44](https://github.com/Aleksandr-Shikhanov/Aleksandr-Shikhanov/blob/main/stepik-certificate-76-775e8cb.pdf)
 </div>         
