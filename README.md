@@ -55,7 +55,7 @@
 |[А/А-тестированию мобильного приложения](https://github.com/Aleksandr-Shikhanov/A-B-Test)|Узнал причиный поломки мобильного приложения|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
 |[Узнать стали ли зарабатывать больше с пользователя](https://github.com/Aleksandr-Shikhanov/A-B-Test)|Провел следующие тесты t-тест, U-тест, бутстрап средних с выводами|Python (pandas, numpy, scipy, matplotlib, seaborn, tqdm)|
 |[Мобильные игры](https://github.com/Aleksandr-Shikhanov/mobile_games)|Написал функцию для расчета retention, определил метрики для принятия решения, определил какой набор предложеий считается лутьшим|Python(pandas, numpy, datetime, seaborn, matplotlib, requests, urllib, scipy, tqdm)|
-|Создаем Дашборд для визуализации ключевых процессов в [Удовлетворенность работников компании](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Публикация вакансий](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |Tableau|
+|Создаем Дашборд для визуализации ключевых процессов в Tableau [Удовлетворенность работников компании](https://public.tableau.com/app/profile/alexandr3799/viz/ShikhanovA_S_DashboardPractice/DBpractice1part1ShikhanovA_S_) [Публикация вакансий](https://public.tableau.com/app/profile/alexandr3799/viz/Satisfactionlevel/DB_satisfaction#1)|Подключение к БД, построение графиков с использованием новых полей, верстка дашборда |Tableau|
 
 ### Обучение сертификаты:
   
