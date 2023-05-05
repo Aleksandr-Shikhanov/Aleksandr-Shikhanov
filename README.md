@@ -29,8 +29,10 @@
   <img src="https://img.shields.io/badge/Airflow-white?logo=Airflow&s&logoColor=yellow&style=for-the-badge" title="Airflow" alt="Airflow" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/github-white?logo=github&logoColor=black&style=for-the-badge" title="GitHub" alt="GitHub" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/A/B тесты-white?logo=A/B тесты&logoColor=black&style=for-the-badge" title="A/B тесты" alt="A/B тесты" height="40"/>&nbsp;  
+  
   ![EXCEL](https://img.shields.io/badge/-EXCEL-FF?style=for-the-badge&logo=EXCEL)
   ![GIT](https://img.shields.io/badge/-GIT-FFF?style=for-the-badge&logo=GIT)  
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" height="40"  />&nbsp;
   
 </div>
